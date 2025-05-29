@@ -21,12 +21,15 @@ This project is a full-stack web application where participants of a corporate l
 
 1. Navigate to the Server folder.
 2. Install dependencies:
+3. 
    ```bash
    npm install
 
 3.Create a .env file and add your environment variables:
 # .env file
 MONGO_URI=mongodb://localhost:27017/catalyst
+
+
 PORT=3000
 
 Start the backend server:
