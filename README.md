@@ -85,3 +85,11 @@ feedback: "The submission appears to be heavily assisted by AI. Please try to wr
  Filtering by title and score
 
  Database integration
+
+
+
+ ![image](https://github.com/user-attachments/assets/be7c24ed-b7b8-4af6-9abc-e29f218cf784)
+
+ ![image](https://github.com/user-attachments/assets/b8eb1304-f006-4f8b-a19c-319da8a5a89a)
+
+
