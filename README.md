@@ -33,22 +33,29 @@ MONGO_URI=mongodb://localhost:27017/catalyst
 PORT=3000
 
 Start the backend server:
+
 npm run dev
 
 Frontend
+
 Navigate to the Client folder.
 Install dependencies:
+
 npm install
 
 Start the frontend application:
+
 npm start
 
 
 🧠 GenAI Simulation
+
 💡 Purpose
+
 To emulate a real-world scenario where submitted content is evaluated by a GenAI system for structure, insightfulness, and originality. The simulation helps mimic how such a system might behave using a mock scoring engine.
 
 ⚙️ How It Works
+
 Instead of connecting to a real AI service (e.g., OpenAI, Anthropic, etc.), we use a mock function that:
 
 Accepts the synopsis text.
@@ -68,6 +75,7 @@ score = 0
 feedback: "The submission appears to be heavily assisted by AI. Please try to write in your own words"
 
 ✅ Features Completed
+
  Participant form with validation (min 100 words)
 
  Simulated GenAI score and feedback
