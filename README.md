@@ -51,7 +51,7 @@ npm start
 
 Use default local connection string:
 
-mongodb://localhost:27017/learning_portal
+mongodb://localhost:27017/catalyst
 
 
 
