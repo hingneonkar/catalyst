@@ -36,7 +36,7 @@ Start the backend server:
 
 npm run dev
 
-Frontend
+### 🔧 Frontend
 
 Navigate to the Client folder.
 Install dependencies:
@@ -46,6 +46,14 @@ npm install
 Start the frontend application:
 
 npm start
+
+### 🔧 Database Mongo DB Compass
+
+Use default local connection string:
+
+mongodb://localhost:27017/learning_portal
+
+
 
 
 🧠 GenAI Simulation
